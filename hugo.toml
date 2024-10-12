@@ -1,1 +1,26 @@
+baseURL = 'http://example.org/'
+title = 'Techstructive Weekly'
 theme = 'hugo-simple'
+languageCode = 'en-us'
+paginate = 20
+
+[[menu.main]]
+name = "Home"
+pageRef = "/"
+weight = 10
+[[menu.main]]
+name = "Newsletter"
+pageRef = "/archives"
+weight = 20
+
+[permalinks]
+posts = "/:year/:month/:slug/"
+
+[taxonomies]
+year = "years"
+month = "months"
+
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = 'page'
