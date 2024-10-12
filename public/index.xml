@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techstructive Weekly</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Techstructive Weekly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Techstructive Weekly</title>
+      <link>http://example.org/posts/issue-1/</link>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/issue-1/</guid>
+      <description>Week #0 This week was about writing one of the much-procrastinated blog posts, starting a YouTube channel, and going through some heavy debugging sessions with my colleagues at work.
+Quote of the week It’s harder to say things which are easier to do, and easier to say things which are harder to do (It’s just my random thought converted to a quote)
+Seriously think about this quote, it is easier to say I will go to the gym daily, and read books, but working on them is it hard.</description>
+    </item>
+    
+  </channel>
+</rss>
